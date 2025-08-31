@@ -1,4 +1,4 @@
-# CodTech Internship - Task 3: Power BI Dashboard
+# Power BI Dashboard
 
 This repository contains Task 3 of the CodTech Data Analysis Internship: an interactive dashboard built using **Power BI** and synthetic superstore sales data.
 
