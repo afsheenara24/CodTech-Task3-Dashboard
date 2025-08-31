@@ -6,6 +6,10 @@ This repository contains Task 3 of the CodTech Data Analysis Internship: an inte
 
 To develop a functional business intelligence dashboard using Power BI that provides actionable insights from a sales dataset.
 
+## 📸 Dashboard
+
+![Dashboard Screenshot](./images/screenshot.png)  
+
 ## 📊 Dashboard Features
 
 - **Sales by Region** (Bar Chart)
