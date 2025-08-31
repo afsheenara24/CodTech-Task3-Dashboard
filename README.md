@@ -44,4 +44,4 @@ To develop a functional business intelligence dashboard using Power BI that prov
 
 **Internship:** CodTech Data Analysis  
 **Task:** 3 – Dashboard Development  
-**Author:** [Your Name]  
+**Author:** Afsheen Ara
