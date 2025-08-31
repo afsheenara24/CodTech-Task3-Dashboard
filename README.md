@@ -8,7 +8,7 @@ To develop a functional business intelligence dashboard using Power BI that prov
 
 ## 📸 Dashboard
 
-![Dashboard Screenshot](./images/screenshot.png)  
+![Dashboard Screenshot](./Screenshot 2025-07-20 172142.png)  
 
 ## 📊 Dashboard Features
 
